@@ -7,18 +7,18 @@
     height: 200px;
     background-color: yellow; 
     }
-  #blue{
+  #indigo{
     border-radius: 50%;
     height: 150px;
-    background-color: blue; 
+    background-color: indigo; 
+  }
+  #violet{
+    border-radius: 50%;
+    height: 100px;
+    background-color: violet; 
   }
   #green{
     border-radius: 50%;
-    height: 100px;
-    background-color: indigo; 
-  }
-  #indigo{
-    border-radius: 50%;
     height: 50px;
-    background-color: indigo; 
+    background-color: green; 
   }
